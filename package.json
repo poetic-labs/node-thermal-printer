@@ -1,6 +1,6 @@
 {
   "name": "node-thermal-printer-poetic",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Made to work with Epson and Star thermal printers",
   "main": "node-thermal-printer.js",
   "scripts": {
